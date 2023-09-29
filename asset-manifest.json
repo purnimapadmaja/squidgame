@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/squidgame/static/css/main.ecccdb4c.css",
+    "main.js": "/squidgame/static/js/main.5ed1a25f.js",
+    "index.html": "/squidgame/index.html",
+    "main.ecccdb4c.css.map": "/squidgame/static/css/main.ecccdb4c.css.map",
+    "main.5ed1a25f.js.map": "/squidgame/static/js/main.5ed1a25f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecccdb4c.css",
+    "static/js/main.5ed1a25f.js"
+  ]
+}
